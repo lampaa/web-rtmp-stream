@@ -9,7 +9,7 @@ const log4js = require('log4js');
 log4js.configure({
   appenders: {
     'console': { type: 'console' },
-    'file': { type: 'file', filename: '/var/logs/web-rtmp-server.log' }
+    'file': { type: 'file', filename: '/var/logs/web-rtmp-stream.log' }
   },
   categories: {
     default: { appenders: ['file', 'console'], level: 'DEBUG' },
