@@ -1,0 +1,10 @@
+[2020-04-03T21:31:19.055] [INFO] ws-rtmp - Prepare configs
+[2020-04-03T21:31:19.059] [INFO] ws-rtmp - AUTH_TYPE: BASIC
+[2020-04-03T21:31:19.059] [INFO] ws-rtmp - AUTH_BASIC: login,password
+[2020-04-03T21:31:19.060] [INFO] ws-rtmp - AUTH_REST_SERVICE: null
+[2020-04-03T21:31:19.060] [INFO] ws-rtmp - WS_HOST: 0.0.0.0
+[2020-04-03T21:31:19.061] [INFO] ws-rtmp - WS_PORT: 15571
+[2020-04-03T21:31:19.061] [INFO] ws-rtmp - FFMPEG: -vcodec copy -acodec aac -f flv
+[2020-04-03T21:31:19.062] [INFO] ws-rtmp - RTMP_PREFIX: null
+[2020-04-03T21:31:19.062] [INFO] ws-rtmp - DEBUG: true
+[2020-04-03T21:31:19.075] [INFO] ws-rtmp - Start http server at 0.0.0.0:15571, wait connections...
